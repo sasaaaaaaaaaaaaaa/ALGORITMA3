@@ -15,4 +15,4 @@ print_r($nasipadang);
 print"<p>";
 print_r($nasipadang);
 
-print_r("<p><strong>by: alika naswa sabila");
+print_r("<p><strong>by: alika naswa sabilaa");
