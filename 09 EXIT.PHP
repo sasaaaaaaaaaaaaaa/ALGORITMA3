@@ -1,6 +1,6 @@
 <?php
 echo 'tunggu beberapa menitt.';
-exit;('proses telah selesai.');;
+exit;('proses telah selesaii.');;
 echo 'Ini tidak akan tampil di browser.';
 
 //jika terjadi eror
