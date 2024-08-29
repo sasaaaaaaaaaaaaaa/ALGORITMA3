@@ -10,7 +10,7 @@ print_r($array);
 print "<p>";
 
 $array = array(
-    'name' => 'alika naswa sabila',
+    'name' => 'alika naswa sabilaa',
     'age' => 33,
     'skills' => array('PHP', 'JavaScript', 'HTML')
 );
