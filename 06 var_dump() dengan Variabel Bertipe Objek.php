@@ -9,5 +9,5 @@ $laptop_baru->merk = "<br>acer";
 $laptop_baru->model = "<br>lenovo";
 
 var_dump($laptop_baru);
-print_r ("<p><strong>by :alika naswa sabila");
+print_r ("<p><strong>by :alika naswa sabilaa");
 ?>
