@@ -1,7 +1,7 @@
 <?php
 //menggunakan dasar fungsi die()
 if (file_exists('file_important.txt')) {
-    echo "File ditemukan.";
+    echo "File ditemukann.";
 } else {
     die("Error: File tidak ditemukan.tunggu beberapa saat");
 }
