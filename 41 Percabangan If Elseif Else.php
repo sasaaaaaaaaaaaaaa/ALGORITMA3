@@ -24,5 +24,5 @@ if ($nilai > 90) {
 
 echo "Nilai anda: $nilai<br>";
 echo "Grade: $grade";
-print_r ("<p><strong>by :alika naswa sabilaa");
+print_r ("<p><strong>by :alika naswa sabila");
 ?>
