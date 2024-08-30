@@ -11,4 +11,4 @@ switch ($grade) {
   default:
     echo "Tetap semangat!";
 }
-print_r ("<p><strong>by :alika naswa sabila");
+print_r ("<p><strong>by :alika naswa sabilaa");
