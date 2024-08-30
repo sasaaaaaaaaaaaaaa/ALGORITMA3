@@ -13,4 +13,4 @@ echo $angka1 * $angka2; // Hasil: 50
 
 // Pembagian
 echo $angka1 / $angka2; // Hasil: 2
-print_r ("<p><strong>by :alika naswa sabilaa");
+print_r ("<p><strong>by :alika naswa sabila");
