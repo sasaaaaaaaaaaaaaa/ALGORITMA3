@@ -3,4 +3,4 @@ $text = " Hello World! ";
 echo "[" . trim($text) . "]"; // Outputs: "[Hello World!]"
 echo "[" . ltrim($text) . "]"; // Outputs: "[Hello World! ]"
 echo "[" . rtrim($text) . "]"; // Outputs: "[ Hello World!]"
-print_r ("<p><strong>by :alika naswa sabilaa");
+print_r ("<p><strong>by :alika naswa sabila");
